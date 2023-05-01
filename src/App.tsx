@@ -4,7 +4,7 @@ export function App() {
   return (
     <>
       <Button variant='primary' />
-      <Button variant='secundary' />
+      <Button variant='secondary' />
       <Button variant='success' />
       <Button variant='danger' />
       <Button />
